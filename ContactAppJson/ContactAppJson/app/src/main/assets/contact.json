@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "firstName": "Rabab",
+      "lastName": "Rochdi",
+      "job" : "Software Engineer",
+      "phone": "02731013",
+      "email": "rabab.rochdi@gmail.com"
+
+    },
+    {
+      "firstName": "Yassine",
+      "lastName": "ACHCHAB",
+      "job": "Software engineer",
+      "phone": "061234567",
+      "email": "yasine.achchab@gmail.com"
+
+    },
+
+    {
+      "firstName": "Imane",
+      "lastName": "ACHCHAB",
+      "job": "Doctor ",
+      "phone": "061234567",
+      "email": "imane.achchab@gmail.com"
+
+    },
+    {
+      "firstName": "wiswis",
+      "lastName": "sabriii",
+      "job": "Software engineer",
+      "phone": "061234567",
+      "email": "w.sabri@gmail.com"
+
+    }
+
+
+
+  ]
+}
